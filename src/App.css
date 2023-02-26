@@ -1,0 +1,20 @@
+table, th, td {
+  border: 1px solid black;
+}
+ .form{
+  float: left;
+  width:40%;
+  /* padding:auto */
+border:2px solid black;
+}
+ #table{
+  float:left; 
+   width:auto; 
+   /* border:2px solid black; */
+}
+h1{
+  color:rgb(60, 42, 42);
+  /* border:2px solid black; */
+  text-decoration:underline;
+  text-align: center;
+}
